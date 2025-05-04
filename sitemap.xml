@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-01T17:55:46+08:00</lastmod>
+    <lastmod>2025-05-03T21:11:46+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-05-01T17:55:46+08:00</lastmod>
+    <lastmod>2025-05-03T21:11:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/%E6%B8%A9%E6%A2%93%E6%88%90%E7%9C%8B%E8%BF%87%E6%9D%A5/</loc>
+    <lastmod>2025-05-03T21:11:46+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2025-05-01T17:55:46+08:00</lastmod>
